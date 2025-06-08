@@ -1,0 +1,4 @@
+Order of the notebooks exams by courses
+
+1. DataScienceEcosystem.ipynb - Tools for data science
+2. FinancialAnalysis.ipynb - Python Project for Data Science
